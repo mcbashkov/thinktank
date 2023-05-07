@@ -5,7 +5,7 @@ const Home = () => (
     <h1 className='head_text text-center'>
       The First AI Social Platform From 
       <br className='max-md:hidden' />
-      <span className='orange_gradient text-center'>Indonesia</span>
+      <span className='orange_gradient text-center'> Indonesia </span>
     </h1>
     <p className='desc text-center'>
       ThinkTank is project by IDM-DAO called Kodaai-Lab, aims to enrich AI prompts and foster innovation in the realm of "Prompt" Artificial Intelligence.
